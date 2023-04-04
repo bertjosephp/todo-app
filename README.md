@@ -4,6 +4,8 @@ This fullstack to-do list app is built with the MERN stack, consisting of React 
 
 The app is deployed on Render as a static site, accessible at https://todo-app-static-site.onrender.com/.
 
+![Sample Page 1](./demo_images/demo1.jpg)
+
 ## Running the Application Locally
 
 To run this application on your local machine, follow these steps:
